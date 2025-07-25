@@ -15,7 +15,7 @@ maintainers = [
 classifiers = [
 
 ]
-license = {text = "MIT"}
+license = {text = "BSD3"}
 dependencies = [
   "typer"
 ]
@@ -42,9 +42,6 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.package-data]
 "*" = ["*.*"]
-
-[project.scripts]
-zfnet = "zfnet.cli:app"
 
 [tool.setuptools.dynamic]
 version = {attr = "zfnet.__version__"}

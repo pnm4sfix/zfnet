@@ -1,0 +1,9 @@
+numpy
+scipy
+networkx
+pygmtools
+holoviews
+matplotlib
+pandas
+tensorly
+datashader
