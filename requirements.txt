@@ -1,7 +1,6 @@
 numpy
 scipy
 networkx
-wheel==0.41.2  
 pygmtools
 holoviews
 matplotlib
