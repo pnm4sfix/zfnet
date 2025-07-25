@@ -18,6 +18,7 @@ classifiers = [
 license = {text = "BSD-3-Clause"}
 dependencies = [
   "typer"
+  "pytest"
 ]
 requires-python = ">= 3.10"
 
