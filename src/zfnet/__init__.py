@@ -2,7 +2,7 @@
 
 __author__ = """Pierce Mullen"""
 __email__ = 'pnm1@st-andrews.ac.uk'
-__version__ = '0.0.5'
+__version__ = '0.0.6'
 
 from .io import read_zarr, extract_activity
 from .conn import find_peaks_in_signal, compute_correlation
